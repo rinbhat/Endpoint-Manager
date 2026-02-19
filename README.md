@@ -1,8 +1,4 @@
 ---
-
-## 4️⃣ Endpoint-Manager
-
-```md
 # 💻 Endpoint Manager
 
 Bulk Intune device onboarding & Autopilot configuration scripts.  
